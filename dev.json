@@ -1,4 +1,4 @@
 {
-	"env": "prod",
+	"env": "testing",
 	"port": 8080
 }
