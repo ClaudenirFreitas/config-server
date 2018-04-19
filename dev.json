@@ -1,4 +1,4 @@
 {
-	"env": "testing",
+	"env": "homolog",
 	"port": 8080
 }
