@@ -1,4 +1,7 @@
 {
-	"env": "dev",
-	"port": 8080
+	"env": "prod",
+	"port": 8080,
+	"user": "freitas",
+	"password": "secret",
+	"status": "alterado"
 }
