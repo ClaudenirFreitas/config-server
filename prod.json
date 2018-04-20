@@ -1,6 +1,0 @@
-{
-	"prod": {
-		"has": false,
-		"env": true
-	}
-}
