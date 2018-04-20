@@ -1,5 +1,6 @@
 {
 	"prod": {
-		"port": false
+		"has": false,
+		"env": true
 	}
 }
