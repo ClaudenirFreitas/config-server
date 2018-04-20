@@ -1,7 +1,8 @@
 {
-	"env": "prod",
-	"port": 8080,
-	"user": "freitas",
-	"password": "secret",
-	"status": "alterando novamente"
+	"prod": {
+		"port": 8080,
+		"user": "freitas",
+		"password": "secret",
+		"status": "alterando novamente"
+	}
 }
