@@ -2,6 +2,6 @@
 	"test": {
 		"port": 8080,
 		"user": "freitas",
-		"status": "OK"
+		"status": "IN"
 	}
 }
