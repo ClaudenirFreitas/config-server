@@ -3,5 +3,6 @@
 		"port": 8080,
 		"user": "claudenir",
 		"status": "IN"
-	}
+	},
+	"branch": "develop" 
 }
